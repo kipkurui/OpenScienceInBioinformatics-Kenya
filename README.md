@@ -1,6 +1,8 @@
 # Promoting Open Science in Bioinformatics - Kenya
 
-This is a Mozilla Science Labs funded project that seeks to promote Open, reproducible and Collaborative Research to Bioinformatics communnity, especially students, in Nairobi Kenya. 
+## Background
+
+This project seeks to sensitize and promote open and reproducible Bioinformatics research within Nairobi. The target group are the graduate students and highly motivated undergraduate students in local universities within Nairobi region. Through the project, we aim to promote open, reproducible and collaborative Bioinformatics research and produce researchers equipped with tools -- Git, reproducible research notebooks etc -- for open and collaborative research.  These students will be ready to tackle local Bioinformatics challenges. In addition, this project is also step towards developing a Bioinformatics curriculum tailored to local needs as well as promote open and collaborative research.
 
 ## Participate
 
