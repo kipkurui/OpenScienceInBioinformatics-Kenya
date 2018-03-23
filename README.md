@@ -1,4 +1,4 @@
-# Open Science In Bioinformatics - Kenya
+# Promoting Open Science in Bioinformatics - Kenya
 
 This is a Mozilla Science Labs funded project that seeks to promote Open, reproducible and Collaborative Research to Bioinformatics communnity, especially students, in Nairobi Kenya. 
 
