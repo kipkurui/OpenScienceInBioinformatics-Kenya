@@ -6,11 +6,11 @@ This project seeks to sensitize and promote open and reproducible Bioinformatics
 
 ## Participate
 
-You can participate in the following ways:
-1. You are familiar with open science tools, and would  like to offer to train
-2. You are a Bioinformatics student, or enthusiats, and would like to participate in our workshops and hackathons
-3. You are an open Science advocate and would love to give a lecture
-4. You Love open science, and would like to fund one of our events
+You can participate in a nummber of ways, including:
+1. You are familiar with open science tools, and would  like to offer to train or  contrubute to training materials
+2. You are a Bioinformatics student, or enthusiats, and would like to participate in our workshops and/or hackathons
+3. You are an open Science advocate within Nairobi and would love to give a lecture in one of our events
+4. You Love open science, and would like to fund our events
 
 ## Reach out
 
