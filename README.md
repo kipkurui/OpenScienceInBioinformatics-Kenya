@@ -12,6 +12,9 @@ You can participate in a nummber of ways, including:
 3. You are an open Science advocate within Nairobi and would love to give a lecture in one of our events
 4. You Love open science, and would like to fund our events
 
+## Events
+We are organizing seminars in May, workshops in June and hackathons in July. Watch [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
+
 ## Reach out
 
 For questions, suggestions or to participate, reach me via:
