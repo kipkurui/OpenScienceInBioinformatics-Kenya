@@ -22,7 +22,7 @@ See [this page](./OpenScienceSeminar.md) for more information.
 Our Open Science Workshop will be held on 9th and 10th August, 2017 at the KENET training room, Jomo kenyatta Memorial Library, University of Nairobi. Applications to participate in the workshop can be made through [this Google Form](https://goo.gl/forms/s3aik3R6Uy0dannd2). 
 
 #### Workshop Schedule
-The schedule for this workshop can accessed [here](./workshopschedule.md).
+The schedule for this workshop can accessed [here](./WorkshopSchedule.md).
 
 ## Reach out
 
