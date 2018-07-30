@@ -1,4 +1,4 @@
-# Workshop Schedule
+# Open Science Workshop Schedule
 
 ## Day 1 (August 9, 9:00AM - 5:00PM)
 ### 9:00AM - 9:30AM
