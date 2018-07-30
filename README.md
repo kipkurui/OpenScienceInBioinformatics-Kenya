@@ -16,7 +16,7 @@ You can participate in a nummber of ways, including:
 We are organizing seminars in May, workshops in June and hackathons in July. Watch [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
 
 ### Open Science Seminars
-See [this page](./OpenScienceSeminars.md)for more information.
+See [this page](./OpenScienceSeminar.md) for more information.
 ### Open Science Workshops
 Our Open Science Workshop will be held on 9th and 10th August, 2017 at the KENET training room, Jomo kenyatta Memorial Library, University of Nairobi. Applications to participate in the workshop can be made through [this Google Form](https://goo.gl/forms/s3aik3R6Uy0dannd2). 
 
