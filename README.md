@@ -23,5 +23,5 @@ Our Open Science Workshop will be held on 9th and 10th August, 2017 at the KENET
 ## Reach out
 
 For questions, suggestions or to participate, reach me via:
-- Twitter: @calkibet
+- Twitter: [@calkibet](https://twitter.com/calkibet)
 - Email: kipkuruis [at] hotmail.com
