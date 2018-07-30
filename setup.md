@@ -3,7 +3,7 @@ We do not provide computers in this workshop, therefore you are expected to brin
 
 ### Requirements
 
-KENET has graciouly provided us access to Computing resources pre-intalled with Jupyter and Rstudio. We provide a list of tools set up intructions in case you'd love to setup yourmachine locally with the tools we'll use.
+KENET has graciouly provided us access to Computing resources pre-intalled with Jupyter and Rstudio. We provide a list of tools set up intructions in case you'd love to setup your machine locally with the tools we'll use.
 
 #### Jupyter
 
