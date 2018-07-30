@@ -1,4 +1,4 @@
-# Promoting Open Science in Bioinformatics - Kenya
+# Promoting Open Science in Bioinformatics
 
 ## Background
 
