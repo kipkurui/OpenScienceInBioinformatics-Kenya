@@ -13,7 +13,7 @@ You can participate in a nummber of ways, including:
 4. You Love open science, and would like to fund our events
 
 ## Events
-We are organizing seminars in May, workshops in June and hackathons in July. Watch [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
+We are organizing seminars in May, workshops in August and hackathons in September. Watch [this page](https://kipkurui.github.io/studyGroup/) for our events posting. 
 
 ### Open Science Seminars
 See [this page](./OpenScienceSeminar.md) for more information.
